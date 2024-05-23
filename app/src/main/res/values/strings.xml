@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">geoQuizRubtsova</string>
+    <string name="end">Спасибо за прохождение!</string>
+    <string name="string_text">Правда ли, что собачья слюна стерильна?</string>
+    <string name="true_button">true</string>
+    <string name="false_button">false</string>
+
+    <string name="string_text2">Правда ли, что наука о собак называется кинология?</string>
+    <string name="true_button1">true</string>
+    <string name="false_button2">false</string>
+
+    <string name="string_text3">Правда ли, что собаки, которые помогают передвигаться слепым людям называются собаки-повадыри?</string>
+    <string name="true_button3">true</string>
+    <string name="false_button4">false</string>
+
+    <string name="string_text4">Правда ли, что Китай считается родиной такс?</string>
+    <string name="true_button5">true</string>
+    <string name="false_button6">false</string>
+
+
+    <string name="string_text5">Правда ли, что у собак породы "Чау-чау" зеленый язык?</string>
+    <string name="true_button7">true</string>
+    <string name="false_button8">false</string>
+
+</resources>

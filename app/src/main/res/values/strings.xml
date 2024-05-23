@@ -21,5 +21,6 @@
     <string name="string_text5">Правда ли, что у собак породы "Чау-чау" зеленый язык?</string>
     <string name="true_button7">true</string>
     <string name="false_button8">false</string>
+    <string name="voiti">Войти</string>
 
 </resources>

@@ -1,5 +1,6 @@
 package com.example.geoquizrubtsova
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
@@ -64,6 +65,8 @@ private fun checkAnswer(userAnswer:Boolean){
     {        Toast.makeText(this,R.string.end,Toast.LENGTH_SHORT).show()
         application.onTerminate()    }
 }
+
+
 
 
 }
